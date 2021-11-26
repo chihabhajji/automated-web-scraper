@@ -1,0 +1,18 @@
+{
+  "properties": [
+    {
+      "name": "scraper.login.username.selector",
+      "type": "java.lang.String",
+      "description": "Description for scraper.login.username.selector."
+    },
+    {
+      "name": "scraper.target.url",
+      "type": "java.lang.String",
+      "description": "Description for scraper.target.url."
+    },
+    {
+      "name": "scraper.login.username.VALUE",
+      "type": "java.lang.String",
+      "description": "Description for scraper.login.username.VALUE."
+    }
+  ] }
